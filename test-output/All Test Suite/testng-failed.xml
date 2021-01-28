@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]">
+  <listeners>
+    <listener class-name="com.listeners.CustomListener"/>
+  </listeners>
+  <test name="/Users/zuura/IdeaProjects/JavaSeleniumTestNG_frameworkYoutubeSession/src/test/java/com/listeners/ListenersTest.java(failed)">
+    <classes>
+      <class name="com.listeners.ListenersTest">
+        <methods>
+          <include name="test2"/>
+          <include name="test3"/>
+        </methods>
+      </class> <!-- com.listeners.ListenersTest -->
+    </classes>
+  </test> <!-- /Users/zuura/IdeaProjects/JavaSeleniumTestNG_frameworkYoutubeSession/src/test/java/com/listeners/ListenersTest.java(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
